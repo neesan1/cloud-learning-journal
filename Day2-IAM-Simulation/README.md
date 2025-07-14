@@ -15,3 +15,6 @@ Used chmod to manage file/folder access like IAM policies
 
 ## Reflection:
 Even without root access, I was able to simulate IAM (Identity & Access Management) in Linux by controlling folder and file permissions. I have now better understand the principle of least privilege and how cloud systems manage access roles.
+
+## Screenshot:
+![Day 2 IAM Simulation](./day2-iam-simulation.png)
