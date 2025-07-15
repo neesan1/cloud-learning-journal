@@ -23,6 +23,6 @@ Practiced core system operations like those used in GCP Compute Engine
 Today I experienced what it's like to work inside a virtual machine environment using the Linux CLI. I learned how to simulate installs, monitor system status, and manage log files — the exact skills used by DevOps and cloud engineers in the real world.
 
 ## Screenshot:
-![VM Simulation](./day3-vm-screenshot.png)
+![VM Simulation](./day3-simulation-screenshot.png)
 
 
