@@ -20,3 +20,5 @@ scp secure_area/config.txt user@cloudvm.google.internal:/etc/
 Reflection:
 Today I simulated how cloud engineers manage security using the command line. I restricted file access with Linux permissions to mimic GCP IAM roles. I also practiced SSH and SCP to simulate how teams deploy secure configs to VMs. These skills are foundational in cloud computing, cybersecurity, and DevOps.
 
+Screenshot:
+day5-Simulating-Cloud-Security-Screenshot.png
